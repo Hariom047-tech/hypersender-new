@@ -1,0 +1,21 @@
+# Local development / CI database. NOT a production deployment manifest.
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: hypersender-postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_SUPERUSER_PASSWORD:-postgres_dev_only}
+      POSTGRES_DB: postgres
+    ports:
+      - "${POSTGRES_PORT:-55432}:5432"
+    volumes:
+      - hypersender_pgdata:/var/lib/postgresql/data
+    command: ["postgres", "-c", "shared_preload_libraries=pg_stat_statements", "-c", "log_statement=ddl"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+volumes:
+  hypersender_pgdata:

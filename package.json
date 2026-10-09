@@ -1,0 +1,60 @@
+{
+  "name": "hypersender-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Multi-tenant WhatsApp AI SaaS platform",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "db:up": "docker compose up -d postgres",
+    "db:down": "docker compose down",
+    "db:bootstrap": "tsx scripts/bootstrap.ts",
+    "db:migrate": "tsx scripts/migrate.ts up",
+    "db:migrate:status": "tsx scripts/migrate.ts status",
+    "db:migrate:down": "tsx scripts/migrate.ts down",
+    "db:seed": "tsx scripts/seed.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "start:api": "tsx src/main.ts",
+    "start:worker": "tsx src/worker.ts",
+    "openapi": "tsx scripts/export-openapi.ts",
+    "dev:start": "tsx scripts/dev.ts start",
+    "dev:stop": "tsx scripts/dev.ts stop",
+    "dev:status": "tsx scripts/dev.ts status",
+    "dev:cleanup-smoke": "tsx scripts/cleanup-smoke-data.ts",
+    "whatsapp:acceptance": "tsx scripts/whatsapp-acceptance.ts",
+    "perf:explain": "tsx scripts/explain-queries.ts --test"
+  },
+  "dependencies": {
+    "@aws-sdk/client-kms": "3.1141.0",
+    "@aws-sdk/client-s3": "3.1141.0",
+    "@aws-sdk/s3-request-presigner": "3.1141.0",
+    "@nestjs/common": "12.1.0",
+    "@nestjs/core": "12.1.0",
+    "@nestjs/platform-express": "12.1.0",
+    "@nestjs/swagger": "12.0.2",
+    "baileys": "7.0.0-rc14",
+    "libphonenumber-js": "1.13.14",
+    "pg": "8.23.0",
+    "pino": "10.3.1",
+    "qrcode": "1.5.4",
+    "reflect-metadata": "0.2.2",
+    "rxjs": "7.8.2"
+  },
+  "devDependencies": {
+    "@nestjs/testing": "12.1.0",
+    "@types/express": "5.0.6",
+    "@types/node": "26.6.3",
+    "@types/pg": "8.23.1",
+    "@types/qrcode": "1.5.6",
+    "@types/supertest": "7.2.1",
+    "dotenv": "18.0.4",
+    "supertest": "7.3.0",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "vitest": "5.0.2"
+  },
+  "type": "module"
+}

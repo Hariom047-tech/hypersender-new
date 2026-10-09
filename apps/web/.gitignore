@@ -1,0 +1,6 @@
+node_modules/
+.next/
+e2e/.results/
+playwright-report/
+test-results/
+next-env.d.ts

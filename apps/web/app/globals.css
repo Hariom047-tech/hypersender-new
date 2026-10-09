@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "./theme-dark.css";
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+html, body { height: 100%; }
+body { background: #f8fafc; color: #0f172a; }
+:focus-visible { outline: 2px solid #059669; outline-offset: 2px; }
+
+/* Landing page */
+html { scroll-behavior: smooth; }
+.lp-grid {
+  background-image: linear-gradient(to right, rgb(255 255 255 / 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.04) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: radial-gradient(ellipse at top, black 30%, transparent 75%);
+}
+@keyframes lp-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+@keyframes lp-pop { from { opacity: 0; transform: translateY(8px) scale(0.97); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  [class*="animate-"] { animation: none !important; }
+}
+
+/* Auth screens: the field wrapper shows focus (ring), so the input itself draws none; hide Edge's own reveal/clear buttons. */
+[data-auth-input]:focus-visible { outline: none; }
+[data-auth-input]::-ms-reveal, [data-auth-input]::-ms-clear { display: none; }

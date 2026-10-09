@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "note": "Starter knowledge for the HAVAN_BOOKING template. Researched Sep 2026 from the sources listed per section. Religious content is written as tradition/belief, never as guaranteed outcome. No dakshina or prices here: those are told by Pandit Ji on a call. Pandit Ji should review and edit.",
+  "sources": [
+    {
+      "title": "Maa Baglamukhi – parichay aur swaroop",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bagalamukhi",
+        "https://www.drikpanchang.com/hindu-goddesses/parvati/mahavidya/bagalamukhi/goddess-bagalamukhi.html"
+      ],
+      "faqs": [
+        {
+          "q": "Maa Baglamukhi kaun hain?",
+          "a": "Maa Baglamukhi Dashamahavidya (das Mahavidyaon) mein se ek pramukh Mahavidya mani jati hain; aam taur par unhe aathvi (8th) Mahavidya kaha jata hai. Parampara mein unhe Adi Shakti / Maa Parvati ka swaroop mana jata hai. Unki upasana stambhan shakti, raksha aur vipreet paristhitiyon mein aatmik bal se judi mani jati hai. Unhe Pitambara Devi aur Brahmastra Vidya ke naam se bhi jana jata hai."
+        },
+        {
+          "q": "Dashamahavidya kaun kaun si hain?",
+          "a": "Parampara mein das Mahavidyayein mani jati hain: Kali, Tara, Tripura Sundari (Shodashi), Bhuvaneshwari, Bhairavi, Chhinnamasta, Dhumavati, Baglamukhi, Matangi aur Kamala. Ye Adi Shakti ke das swaroop mane jate hain. Gupt Navratri mein inki vishesh sadhana ki parampara hai."
+        },
+        {
+          "q": "Baglamukhi naam ka arth kya hai?",
+          "a": "Is naam ke do prachalit arth bataye jate hain. (1) 'Bagala' ko Sanskrit shabd 'Valga' ka roop mana jata hai, jiska arth hai lagaam (bridle) – yani vo Devi jo virodhi ki vani aur buddhi par lagaam laga deti hain; isliye unhe 'Valgamukhi' bhi kaha gaya. (2) Kuch vidwan 'Bagula' (crane) pakshi se jodte hain, jo shikar ke samay bilkul sthir rehta hai – ye sthirta aur stambhan ka pratik hai."
+        },
+        {
+          "q": "Stambhan ka kya matlab hai?",
+          "a": "Stambhan ka arth hai rok dena ya sthir kar dena. Baglamukhi upasana mein ise nakaratmakta, virodh, galat vani aur badhaon ko rokne ki shakti ke roop mein mana jata hai. Bhakton ki aastha ke anusaar Maa ki upasana se mann ko sthirta aur vipreet samay mein himmat milti hai. Ye aastha ka vishay hai, iska koi nishchit ya guaranteed parinaam nahi bataya ja sakta."
+        },
+        {
+          "q": "Maa Baglamukhi ka swaroop kaisa hai? Unki murti mein kya dikhaya jata hai?",
+          "a": "Paramparagat varnan ke anusaar Maa ka varn peela / swarnim hai, ve peele vastra, peele phoolon ki mala aur swarn aabhushan dharan karti hain. Ve samudra ke beech swarn singhasan par virajmaan hain. Do bhujaon wale roop mein ve baayein haath se ek asur ki jeebh pakde hue hain aur daahine haath mein gada (mudgar) uthaye hue hain – ye virodhi ki galat vani aur shakti ko rokne ka pratik hai. Chaar bhujaon wala roop bhi varnit hai, jismein teesra netra aur mastak par chandrama hai."
+        },
+        {
+          "q": "Maa ko peela rang kyu priya hai? Pitambara kyu kehte hain?",
+          "a": "Pitambara ka arth hai 'peele vastra dharan karne wali'. Katha ke anusaar Maa Haridra (haldi) Sarovar se prakat hui thin, isliye haldi aur peela rang unki upasana ka mukhya ang hai. Parampara mein peela rang shubhta, pavitrata aur samriddhi ka pratik hai. Isliye upasana mein peele vastra, peela aasan, peele phool, haldi, peeli sarson aur peela bhog chadhane ki parampara hai."
+        },
+        {
+          "q": "Maa Baglamukhi ke Bhairav kaun hain?",
+          "a": "Parampara mein Maa Baglamukhi ke saath Shiv ke Mrityunjay (Ekvaktra) Bhairav swaroop ki upasana batayi jati hai. Vishesh sadhana ki vidhi ke liye Pandit Ji se margdarshan lena uchit hai."
+        }
+      ]
+    },
+    {
+      "title": "Maa Baglamukhi – prakatya katha (paramparagat manyata)",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bagalamukhi",
+        "https://hindi.webdunia.com/religious-stories/ma-baglamukhhi-katha-in-hindi-118042200030_1.html"
+      ],
+      "faqs": [
+        {
+          "q": "Maa Baglamukhi ki katha kya hai? Maa kaise prakat hui?",
+          "a": "Paramparagat katha ke anusaar Satyug mein ek bhayanak toofan utha jo poori srishti ko nasht karne laga. Srishti ki raksha ke liye Bhagwan Vishnu chintit hue aur Bhagwan Shiv ke paas gaye. Shiv ji ne kaha ki is sankat ko Adi Shakti hi rok sakti hain. Tab Bhagwan Vishnu ne Saurashtra kshetra ke Haridra Sarovar (haldi jaise peele jal wale sarovar) ke kinare kathor tapasya ki. Unki tapasya se prasann hokar Adi Shakti sarovar ke peele jal se Maa Baglamukhi ke roop mein prakat hui aur apni stambhan shakti se toofan ko shaant kar diya. Is prakatya ka din Vaishakh Shukla Ashtami mana jata hai, jise Baglamukhi Jayanti kehte hain."
+        },
+        {
+          "q": "Madan asur ki katha kya hai? Maa asur ki jeebh kyu pakde hain?",
+          "a": "Ek anya prachalit katha ke anusaar Madan naam ke asur ne tapasya se 'vak-siddhi' paayi thi – vo jo bolta tha vahi sach ho jata tha. Vo is shakti ka durupayog karke logon ko pareshaan karne laga. Tab Maa Baglamukhi ne uski jeebh pakad kar uski vani ko stambhit (rok) diya. Kaha jata hai ki asur ne antim samay mein prarthana ki ki uski bhi Maa ke saath pooja ho, isliye Maa ke chitra mein vo asur bhi dikhaya jata hai. Isi karan Maa ko vani aur virodh ka stambhan karne wali Devi mana jata hai."
+        },
+        {
+          "q": "Baglamukhi ko Brahmastra kyu kaha jata hai?",
+          "a": "Parampara mein Baglamukhi Vidya ko 'Brahmastra Vidya' kaha gaya hai, yani sabse prabhavi raksha-shakti. Himachal ke Bankhandi (Kangra) mandir ki parampara ke anusaar Ravan se yuddh se pehle Bhagwan Ram ne Hanuman ji ke margdarshan mein Maa Baglamukhi ki upasana ki thi. Ye dharmik manyata aur paramparagat kathayein hain."
+        }
+      ]
+    },
+    {
+      "title": "Nalkheda Maa Baglamukhi mandir",
+      "references": [
+        "https://agarmalwa.nic.in/en/tourist-place/baglukhi-mata-temple-nalkheda/",
+        "https://en.wikipedia.org/wiki/Bagalamukhi_Temple,_Nalkheda",
+        "https://www.bhaktibharat.com/en/mandir/baglamukhi-mandir-nalkheda"
+      ],
+      "faqs": [
+        {
+          "q": "Nalkheda ka Baglamukhi mandir kahan hai?",
+          "a": "Maa Baglamukhi mandir Nalkheda nagar mein hai, jo Madhya Pradesh ke Agar Malwa zile ki ek tehsil hai. Mandir Lakhundar nadi ke kinare sthit hai (Lakhundar ko Narmada ki sahayak nadi bataya jata hai). Ye Baglamukhi upasana ke sabse pramukh sthanon mein mana jata hai; Datia (MP) aur Bankhandi-Kangra (HP) ke saath ise Maa ke teen pramukh prachin sthano mein gina jata hai."
+        },
+        {
+          "q": "Nalkheda mandir ka itihaas kya hai? Isse kisne sthapit kiya?",
+          "a": "Mandir se judi paramparagat manyata ke anusaar Dwapar Yug mein Mahabharat yuddh mein vijay ke liye Bhagwan Shri Krishna ke kehne par Maharaj Yudhishthir ne yahan Maa Baglamukhi ki sthapana aur upasana ki thi, aur Pandavon ne apna rajya vapas paaya. Kuch paramparaon mein Mahabharat yuddh ke 12ve din sthapana ka ullekh bhi aata hai. Murti ko swayambhu (swayam prakat) mana jata hai; iski sthapana ka koi likhit aitihasik praman nahi milta. Upalabdh jaankari ke anusaar mandir ka jirnoddhar (restoration) 1815 mein hua tha. Kripya dhyan dein: ye paramparagat manyata hai, puratatvik roop se pramanit itihaas nahi."
+        },
+        {
+          "q": "Nalkheda mandir mein kaun kaun se devta hain? Trishakti kya hai?",
+          "a": "Mandir ke garbhgriha mein Trishakti swaroop virajmaan hai – beech mein Maa Baglamukhi, ek or Maa Lakshmi aur doosri or Maa Saraswati. Parisar mein Shri Krishna, Hanuman ji aur Bhairav ji ki pratimayein bhi hain. Sarkari (Agar Malwa zila) jankari ke anusaar desh bhar se Shaiv aur Shakt sadhu-sant yahan sadhana ke liye aate hain."
+        },
+        {
+          "q": "Nalkheda kaise pahunche? Ujjain, Indore, Bhopal se kitni doori hai?",
+          "a": "Agar Malwa zila prashasan ki jankari ke anusaar Nalkheda sadak marg se achhe se juda hai: Ujjain se lagbhag 98–100 km (karib 2 ghante), Indore se lagbhag 156 km (3–3.5 ghante), Bhopal se lagbhag 182 km aur Kota (Rajasthan) se lagbhag 191 km. Nazdiki bada railway station Ujjain Junction (lagbhag 98 km) hai; Shujalpur station bhi karib 40 km hai. Nazdiki airport Indore ka Devi Ahilyabai Holkar International Airport hai. Ujjain aur Indore se bus aur taxi dono milti hain. Safar se pehle current route aur mausam ki jankari zaroor le lein."
+        },
+        {
+          "q": "Nalkheda mandir kab khulta hai? Darshan aur aarti ka samay?",
+          "a": "Kai sroton ke anusaar mandir praatah lagbhag 4–5 baje se raat lagbhag 10 baje tak khula rehta hai, aur subah, dopahar aur shaam aarti hoti hai. Samay tyoharon (khaas kar Navratri) aur mandir prabandhan ke niyamon ke anusaar badal sakta hai, isliye jaane se pehle Pandit Ji ya mandir se current samay confirm kar lein."
+        },
+        {
+          "q": "Nalkheda mein Navratri kaisi hoti hai?",
+          "a": "Navratri Nalkheda mandir ka sabse bada utsav hai. Is dauran mandir sajaya jata hai, vishesh aarti, bhajan sandhya aur bahut adhik sankhya mein havan hote hain, aur desh bhar se shraddhalu aate hain. Bheed zyada hone ke karan Navratri mein havan / darshan ki yojana pehle se banana behtar rehta hai."
+        },
+        {
+          "q": "Nalkheda mein havan kahan hota hai? Mirchi havan kya hai?",
+          "a": "Mandir parisar ke aaspaas havan ke liye yagyashala / havan kund ki vyavastha hoti hai, jahan Pandit vidhi-anusar havan karate hain. Baglamukhi upasana mein peeli sarson, haldi aur kuch paramparaon mein laal mirch se havan ki bhi manyata hai (ise 'mirchi havan' kaha jata hai), jise dharmik manyata mein virodh aur badhaon ki shanti se joda jata hai. Kaunsa havan aur kaunsi samagri aapke sankalp ke liye uchit hai, ye Pandit Ji hi batayenge."
+        },
+        {
+          "q": "Nalkheda mein rukne ki vyavastha hai kya? Kya saath le jaayein?",
+          "a": "Nalkheda ek chhota nagar hai; yahan dharamshalayein aur saadharan lodge milte hain, aur zyada suvidha ke liye log Ujjain mein bhi rukte hain. Navratri mein pehle se vyavastha kar lena achha hai. Darshan ke liye peele ya halke rang ke saaf vastra pehenna parampara mein shubh mana jata hai. Current vyavastha ke liye Pandit Ji se baat kar sakte hain."
+        }
+      ]
+    },
+    {
+      "title": "Anya pramukh Baglamukhi peeth",
+      "references": [
+        "https://en.wikipedia.org/wiki/Pitambara_Peeth",
+        "https://www.mptourism.com/shree-pitambara-peeth-datia.html",
+        "https://en.wikipedia.org/wiki/Bagalamukhi_Temple,_Bankhandi,_HP"
+      ],
+      "faqs": [
+        {
+          "q": "Datia ka Pitambara Peeth kya hai?",
+          "a": "Datia (Madhya Pradesh) ka Shri Pitambara Peeth Maa Baglamukhi ka ek bahut prasiddh sthan hai, jahan Maa ko Pitambara Devi kaha jata hai. Is peeth ki sthapana Shri Swami Ji Maharaj ne ki; ve 1929 mein Datia aaye aur 1935 mein Maa Baglamukhi ki sthapana ki. Parisar mein Maa Dhumavati ka mandir aur Vankhandeshwar Mahadev ka prachin Shiv mandir bhi hai."
+        },
+        {
+          "q": "Kangra ka Bankhandi Baglamukhi mandir kya hai?",
+          "a": "Himachal Pradesh ke Kangra zile mein Bankhandi ka Baglamukhi mandir bhi prachin mana jata hai. Wahan ki parampara ke anusaar Pandavon ne agyatvas ke dauran iski sthapana ki, aur Bhagwan Ram ne Ravan se yuddh se pehle Maa ki upasana ki thi."
+        },
+        {
+          "q": "Nalkheda, Datia aur Kangra mein kya fark hai? Kahan jaana chahiye?",
+          "a": "Teeno hi Maa Baglamukhi ke pramukh aur shraddha ke sthan hain. Nalkheda mein Trishakti (Baglamukhi, Lakshmi, Saraswati) swayambhu swaroop aur Pandav-kaal ki manyata hai; Datia ka Pitambara Peeth Swami Ji ki sadhana-sthali hai; Bankhandi ki Ram-Ravan aur Pandav se judi manyata hai. Kaunsa sthan behtar hai, aisi tulna aastha ka vishay hai – har sthan par shraddha se ki gayi upasana ka mahatva mana jata hai."
+        }
+      ]
+    },
+    {
+      "title": "Puja, jaap, havan aur anushthan – antar",
+      "references": [
+        "https://maabaglamukhi.guru/blog/baglamukhi-mantra-jaap-method-rules-results",
+        "https://www.baglamukhisadhnapeeth.com/pujan-types.html"
+      ],
+      "faqs": [
+        {
+          "q": "Puja, jaap, havan aur anushthan mein kya antar hai?",
+          "a": "PUJA: Devi ki vidhi-anusar aradhana – jaise dhyan, aavahan, snan, vastra, phool, dhoop-deep, naivedya aur aarti (shodashopchar puja mein 16 upchar hote hain). JAAP: kisi mantra ka sankalp ke saath nishchit sankhya mein baar-baar uchcharan, aam taur par mala par. HAVAN: agni mein mantra ke saath 'swaha' bolkar samagri aur ghee ki ahuti dena. ANUSHTHAN: ek niyamit, sankalpit karyakram jismein nishchit dino mein nishchit sankhya ka jaap, puja, havan aur antim kriyayein (tarpan, marjan, brahman bhojan) shamil hoti hain. Aapke liye kya uchit hai, ye Pandit Ji sankalp ke hisab se batate hain."
+        },
+        {
+          "q": "Anushthan kya hota hai? Kitne jaap hote hain?",
+          "a": "Baglamukhi anushthan mein parampara ke anusaar sankalp lekar ek nishchit sankhya mein mool mantra ka jaap kiya jata hai – aam taur par 36,000 ya sawa lakh (1,25,000) jaap ki baat aati hai, jo kai dino mein (sawa lakh ke liye aksar 7 se 11 din) poora hota hai. Iske saath shodashopchar puja, jaap ka dashansh (1 / 10) havan, havan ka dashansh tarpan, tarpan ka dashansh marjan aur ant mein brahman / kanya bhojan ki parampara hai. Sankhya aur din Pandit Ji sankalp ke anusaar tay karte hain."
+        },
+        {
+          "q": "Dashansh havan kya hota hai?",
+          "a": "Parampara ke anusaar jitne mantra jaap kiye gaye, uska dasvan hissa (1 / 10) ahuti havan mein di jati hai – ise dashansh havan kehte hain. Jaise 11,000 jaap ke baad lagbhag 1,100 ahuti. Iske baad havan ka dashansh tarpan aur tarpan ka dashansh marjan karne ka vidhan bataya jata hai."
+        },
+        {
+          "q": "Havan kyu karte hain? Havan ka mahatva kya hai?",
+          "a": "Vaidik parampara mein havan (yagya) mein agni ko devtaon tak ahuti pahunchane wala mana jata hai. Mantra ke saath di gayi ahuti ko sankalp ki poorti aur Devi ko samarpan mana jata hai. Baglamukhi havan ko parampara mein raksha, badha-nivaran aur vipreet paristhitiyon mein aatmik bal ke liye kiya jata hai. Ye aastha ka vishay hai; kisi nishchit parinaam ki guarantee nahi di ja sakti."
+        },
+        {
+          "q": "Havan kitne prakar ke hote hain? Samanya, Vishesh aur Maha Vishesh mein kya fark hai?",
+          "a": "Pandit Ji teen prakar ke havan karwate hain: (1) Samanya Havan – samanya havan samagri se; (2) Vishesh Havan – samagri ke saath 21 prakar ki jadi-butiyon se; (3) Maha Vishesh Havan – samagri ke saath 31 prakar ki jadi-butiyon se. Aapke sankalp ke liye kaunsa uchit hai aur dakshina kitni hogi, ye Pandit Ji call par batate hain."
+        },
+        {
+          "q": "Havan mein kitna samay lagta hai? Kitni ahuti hoti hai?",
+          "a": "Samanya roop se 108 ahuti wala havan, sankalp aur agni sthapana se lekar purnahuti tak, lagbhag 45 minute se 1.5 ghante mein hota hai. Kai havan 1008 ya usse adhik ahuti ke bhi hote hain, aur jaap / anushthan ke saath hone par samay badh jata hai. Aapke havan ka sahi samay aur ahuti sankhya Pandit Ji havan ke prakar ke hisab se batate hain."
+        }
+      ]
+    },
+    {
+      "title": "Baglamukhi havan – samagri aur vidhi",
+      "references": [
+        "https://bagalamukhimandir.com/en/blog/bagalamukhi-havan-samagri-vidhi-complete-procedure",
+        "https://amitray.com/havan-vidhi-and-the-108-ahuti-mantras/",
+        "https://www.drikpanchang.com/puja-vidhi/kalash-sthapana/kalash-sthapana.html"
+      ],
+      "faqs": [
+        {
+          "q": "Baglamukhi havan mein kya samagri lagti hai?",
+          "a": "Parampara mein aam taur par ye samagri batayi jati hai: peeli sarson (mukhya stambhan ahuti), haldi ki gaanth / lakdi aur haldi, gaay ka ghee, havan samagri, peele phool, peela chandan, peela vastra, akshat (chawal), gud, til, supari, kapoor, dhoop-agarbatti, gangajal, mauli (kalava), kalash, nariyal, Baglamukhi yantra / chitra aur haldi ki mala. Vishesh aur Maha Vishesh havan mein iske saath 21 ya 31 prakar ki jadi-butiyan shamil hoti hain. Havan Pandit Ji karwate hain to samagri ki vyavastha aam taur par unki taraf se hoti hai – ye call par confirm kar lein."
+        },
+        {
+          "q": "Havan ki vidhi kya hoti hai? Havan kaise hota hai?",
+          "a": "Aam havan vidhi ke charan: (1) Pavitrikaran aur aachaman; (2) Sankalp – yajman ka naam, gotra, sthan, tithi aur uddeshya bolkar; (3) Shri Ganesh pujan; (4) Kalash sthapana; (5) Navgrah pujan; (6) Maa Baglamukhi ka dhyan, aavahan aur puja; (7) Agni sthapana; (8) Mantra ke saath 'swaha' bolkar ahutiyan; (9) Purnahuti (nariyal / ghee ke saath antim ahuti); (10) Aarti, kshama prarthana aur shanti path; (11) Havan ki bhasm (vibhuti) ka tilak aur prasad. Exact vidhi aur mantra Pandit Ji ki parampara ke anusaar hote hain."
+        },
+        {
+          "q": "Sankalp kya hota hai? Sankalp mein kya bolte hain?",
+          "a": "Sankalp puja / havan ka aarambh hai, jismein haath mein jal, akshat aur phool lekar yajman apna naam, gotra, sthan, tithi aur havan ka uddeshya bolta hai (Pandit Ji mantra ke saath karwate hain). Online havan mein ye video call par, aapke naam aur gotra se liya jata hai. Isliye Pandit Ji aapse naam, gotra, parivar ke sadasyon ke naam aur havan ka uddeshya poochte hain."
+        },
+        {
+          "q": "Purnahuti kya hai?",
+          "a": "Purnahuti havan ki antim aur sabse mahatvapurn ahuti hai, jo aam taur par nariyal (gola), ghee aur samagri ke saath di jati hai. Iske saath havan ko poorn mana jata hai; iske baad aarti aur shanti path hota hai."
+        },
+        {
+          "q": "Havan ki bhasm (raakh) ka kya karein?",
+          "a": "Parampara mein havan ki bhasm ko pavitra (vibhuti) mana jata hai. Log iska tilak lagate hain, ise puja sthan par rakhte hain ya kisi pavitra nadi / ped ke neeche visarjit karte hain. Online havan mein kai Pandit bhasm aur raksha sutra prasad ke roop mein courier bhi karte hain – ye suvidha Pandit Ji se confirm kar lein."
+        },
+        {
+          "q": "Havan ke din yajman ko kya karna chahiye? Kya niyam hain?",
+          "a": "Parampara mein ye bataya jata hai: subah snan karke saaf (ho sake to peele) vastra pehnein, man shaant rakhein, us din saatvik bhojan lein (lehsun-pyaaz, maans-madira se parhej), aur havan ke samay samay par upasthit rahein (online ho to video call par). Vishesh niyam Pandit Ji aapke havan ke anusaar batayenge."
+        },
+        {
+          "q": "Maa Baglamukhi ko kya bhog chadhate hain?",
+          "a": "Maa ko peela bhog priya mana jata hai – jaise besan ke laddoo, kesar / haldi wale peele chawal, kesar kheer, chane ki daal se bani mithai aur peele phal (jaise kela). Saath mein peele phool aur haldi chadhai jati hai."
+        }
+      ]
+    },
+    {
+      "title": "Online havan / door se sankalp – prakriya",
+      "references": [
+        "https://maabaglamukhi.guru/blog/baglamukhi-havan-online-booking",
+        "https://shreeprakash.com/maa-baglamukhi-mandir-nalkheda/"
+      ],
+      "faqs": [
+        {
+          "q": "Online havan kya hota hai? Kya door se havan karwa sakte hain?",
+          "a": "Haan. Online havan (door se sankalp) mein yajman Nalkheda nahi aata, balki Pandit Ji yajman ke naam, gotra aur sankalp ke saath Nalkheda mein vidhi-anusar havan karte hain. Yajman video call se sankalp mein judta hai aur havan live dekh sakta hai, ya baad mein video / photos milte hain. Kaunsi suvidhayein (live video, recording, photos, prasad courier) milti hain, ye Pandit Ji ki seva ke anusaar hota hai."
+        },
+        {
+          "q": "Online havan ki poori process kya hai?",
+          "a": "Aam prakriya: (1) Havan ka prakar chunna – Samanya, Vishesh ya Maha Vishesh; (2) Pandit Ji se call – dakshina, format aur shubh date / muhurat tay hote hain; (3) Sankalp ki jankari dena – naam, gotra, parivar ke sadasyon ke naam aur uddeshya; (4) Date-time booking aur ek din pehle reminder; (5) Havan ke din video call par sankalp; (6) Mantra ke saath havan – live video ya baad mein video / photos; (7) Purnahuti ke baad prasad (jaise bhasm, raksha sutra) courier, agar ye suvidha ho."
+        },
+        {
+          "q": "Online havan ka phal milta hai kya? Door se sankalp kaam karta hai?",
+          "a": "Dharmik manyata ke anusaar sankalp yajman ke naam aur gotra se liya jata hai, isliye door rehkar bhi havan karwane ki parampara hai – jaise tirth sthano par anya log yajman ke naam se puja karte hain. Ye aastha ka vishay hai; kisi bhi havan ke nishchit parinaam ki guarantee nahi di ja sakti."
+        },
+        {
+          "q": "Mujhe apna gotra nahi pata. Kya havan ho sakta hai?",
+          "a": "Haan. Parampara mein gotra na pata ho to aam taur par 'Kashyap gotra' se sankalp liya jata hai, kyunki Rishi Kashyap ko sabka poorvaj mana jata hai. Aapke liye kya uchit rahega, Pandit Ji confirm kar denge."
+        },
+        {
+          "q": "Videsh (abroad) se online havan karwa sakte hain?",
+          "a": "Haan, online havan ki suvidha videsh mein rehne wale yajmanon ke liye bhi hoti hai – sankalp video call se liya jata hai. Samay India ke samay (IST) ke hisab se tay hota hai, isliye apne desh ka samay dhyan mein rakhein. International prasad courier ki suvidha Pandit Ji se confirm kar lein."
+        },
+        {
+          "q": "Online havan ke samay ghar par kya karein?",
+          "a": "Parampara mein bataya jata hai ki havan ke samay snan karke saaf / peele vastra mein shaant jagah baithein, ho sake to ek deepak jalayein, Maa ka dhyan karein aur video call se sankalp mein judein. Ghar par vishesh taiyari ki zaroorat ho to Pandit Ji call par batayenge."
+        }
+      ]
+    },
+    {
+      "title": "Mantra aur jaap ke niyam",
+      "references": [
+        "https://en.wikipedia.org/wiki/Bagalamukhi",
+        "https://maabaglamukhi.guru/baglamukhi-mantra"
+      ],
+      "faqs": [
+        {
+          "q": "Maa Baglamukhi ka beej mantra kya hai?",
+          "a": "Maa Baglamukhi ka beej mantra 'Hleem' (ह्लीं) mana jata hai. Ye mool mantra aur anya mantron ka aadhar hai."
+        },
+        {
+          "q": "Baglamukhi mool mantra kya hai? Uska arth?",
+          "a": "Prachalit mool mantra (36 aksharon ka) hai: 'Om Hleem Bagalamukhi Sarva Dushtanam Vacham Mukham Padam Stambhaya Jihvam Keelaya Buddhim Vinashaya Hleem Om Swaha.' Bhavarth: 'He Maa Baglamukhi, sabhi dusht shaktiyon ki vani, mukh aur gati ko stambhit karo, unki jeebh ko keelit karo aur unki dusht buddhi ka naash karo.' Parampara ke anusaar is mantra ka anushthan ya vishesh prayog guru / Pandit ke margdarshan mein hi karna chahiye; saamanya bhakt shraddha se Maa ka naam-smaran aur stuti kar sakte hain."
+        },
+        {
+          "q": "Baglamukhi Gayatri mantra kya hai?",
+          "a": "Prachalit Baglamukhi Gayatri mantra: 'Om Bagalamukhyai cha Vidmahe, Stambhinyai cha Dheemahi, Tanno Bagala Prachodayat.' Bhavarth: 'Hum Maa Baglamukhi ko jaante hain, stambhan shakti wali Devi ka dhyan karte hain; Maa Bagala hamein prerna dein.'"
+        },
+        {
+          "q": "Baglamukhi jaap kaise karein? Kya niyam hain?",
+          "a": "Parampara mein bataye gaye niyam: haldi ki (108 manke wali) mala se jaap; peele vastra aur peela aasan; mukh poorv ya uttar disha ki or; Brahm muhurt (subah 4–6 baje) uttam samay; jaap ke dino mein saatvik bhojan (lehsun-pyaaz, maans-madira se parhej) aur brahmacharya; roz ek hi samay aur sthan par jaap. Anushthan (36,000 ya sawa lakh jaap) ya kisi vishesh prayog ke liye guru / Pandit ka margdarshan zaroori mana jata hai – bina margdarshan ke vishesh prayog nahi karne chahiye."
+        },
+        {
+          "q": "Kya ghar par Baglamukhi mantra ka jaap kar sakte hain?",
+          "a": "Shraddha se Maa ka naam-smaran, stuti, aarti aur Gayatri mantra ka path aam bhakt kar sakte hain. Lekin mool mantra ka sankalpit anushthan, diksha-aadharit sadhana ya koi tantrik prayog guru / Pandit ke margdarshan ke bina karna parampara mein uchit nahi mana jata. Iske liye Pandit Ji se seedhe baat karein."
+        },
+        {
+          "q": "Haldi ki mala kyu use karte hain?",
+          "a": "Maa Baglamukhi ki upasana mein haldi ka vishesh mahatva hai (Haridra Sarovar se prakatya aur peela rang). Isliye parampara mein unke jaap ke liye haldi ki gaanth se bani 108 manke ki mala ka upyog bataya gaya hai."
+        }
+      ]
+    },
+    {
+      "title": "Tyohar aur shubh samay – Navratri, Gupt Navratri, Baglamukhi Jayanti",
+      "references": [
+        "https://www.srimandir.com/articles/vrat-prav-tyohar/gupt-navratri-magh-month?lang=en",
+        "https://www.bhaktibharat.com/festival/baglamukhi-jayanti"
+      ],
+      "faqs": [
+        {
+          "q": "Navratri mein havan kyu karte hain?",
+          "a": "Navratri Adi Shakti ki upasana ke nau din hain. Parampara mein is dauran kiye gaye jaap, puja aur havan ka vishesh dharmik mahatva mana jata hai, aur Nalkheda mein Navratri mein sabse zyada havan hote hain. Ashtami aur Navami par havan ki vishesh parampara hai. Current Navratri ki tareekh ke liye assistant festival calendar dekhta hai."
+        },
+        {
+          "q": "Gupt Navratri kya hai? Baglamukhi ke liye kyu khaas hai?",
+          "a": "Saal mein chaar Navratri mani jati hain – Chaitra aur Sharadiya (prakat), aur Magh tatha Ashadh (gupt). Gupt Navratri mein das Mahavidyaon ki sadhana ki parampara hai, jismein Maa Baglamukhi bhi shamil hain; isliye Baglamukhi sadhakon ke liye Gupt Navratri vishesh mani jati hai. Magh Gupt Navratri aam taur par January–February aur Ashadh Gupt Navratri June–July mein aati hai."
+        },
+        {
+          "q": "Baglamukhi Jayanti kab hoti hai?",
+          "a": "Baglamukhi Jayanti Vaishakh maas ke Shukla Paksh ki Ashtami ko manayi jati hai – manyata hai ki isi din Maa prakat hui thin. Is din vishesh puja, jaap aur havan hote hain. Saal 2027 mein ye 13 May ko padegi (panchang ke anusaar ek din ka antar sambhav hai; exact muhurat Pandit Ji batayenge)."
+        },
+        {
+          "q": "Baglamukhi puja ke liye kaunsa din aur samay shubh hai?",
+          "a": "Peele rang aur Brihaspati (Guru) se jude hone ke karan parampara mein Guruvar (Thursday) ko Maa Baglamukhi ki puja shubh mani jati hai. Navratri, Gupt Navratri, Ashtami tithi aur Baglamukhi Jayanti vishesh avsar hain. Jaap ke liye Brahm muhurt (subah 4–6) uttam bataya jata hai. Aapke sankalp ke liye shubh muhurat Pandit Ji tay karte hain."
+        }
+      ]
+    },
+    {
+      "title": "Baglamukhi upasana ke labh (dharmik manyata)",
+      "references": [
+        "https://www.baglamukhidevi.org/what-are-the-benefits-of-maa-baglamukhi-sadhana",
+        "https://en.wikipedia.org/wiki/Bagalamukhi"
+      ],
+      "faqs": [
+        {
+          "q": "Maa Baglamukhi ki puja / havan ke kya labh hain?",
+          "a": "Bhakton ki aastha aur parampara ke anusaar Baglamukhi upasana in baaton ke liye ki jati hai: (1) Shatru aur virodh se raksha, nakaratmak shaktiyon aur buri nazar se bachav; (2) Kanooni / court ke maamlon mein aatmik bal aur sahi nirnay ki prarthana; (3) Vyapar aur career ki rukavaton ko door karne ki prarthana; (4) Vani mein prabhav, vaad-vivad aur pratiyogita (exam, interview, chunav) mein aatmvishwas; (5) Ghar-parivar ke kalah ki shanti; (6) Mann ki sthirta, bhay aur tanav mein saahas; (7) Aadhyatmik unnati. Kripya dhyan dein: ye dharmik manyataayein hain, koi nishchit ya guaranteed parinaam nahi. Kanooni, medical ya aarthik maamlon mein vishesagya ki salah zaroor lein."
+        },
+        {
+          "q": "Shatru ya dushman pareshaan kar raha hai, kya Baglamukhi havan madad karega?",
+          "a": "Parampara mein Maa Baglamukhi ko stambhan ki Devi mana jata hai, isliye virodh aur shatru-badha ke samay unki upasana ki jati hai – bhakton ki aastha ke anusaar isse raksha aur himmat milti hai. Iska nishchit parinaam nahi bataya ja sakta. Agar aapko kisi se khatra hai to police / kanooni madad zaroor lein. Aapke sankalp ke liye kaunsa havan uchit hai, Pandit Ji call par batayenge."
+        },
+        {
+          "q": "Court case ke liye Baglamukhi puja kyu karte hain?",
+          "a": "Maa ko vani aur virodh ka stambhan karne wali Devi mana jata hai, isliye parampara mein kanooni vivad ke samay unki upasana ki jati hai. Ye aastha ka vishay hai – court ka faisla kanoon aur saboot par hota hai. Apne vakeel ki salah aur kanooni prakriya jaari rakhein; havan / puja ko prarthana ke roop mein dekhein."
+        },
+        {
+          "q": "Vyapar ya naukri mein rukavat hai, kya havan karein?",
+          "a": "Parampara mein Baglamukhi upasana ko rukavaton aur vipreet paristhitiyon ke samay ki jane wali upasana mana jata hai, aur Nalkheda mein Maa ke saath Lakshmi aur Saraswati (Trishakti) ki aradhana bhi hoti hai. Aap chahein to Pandit Ji se aapke sankalp ke anusaar havan / jaap ka suitable format call par jaan sakte hain. Kisi nishchit parinaam ki guarantee nahi di ja sakti."
+        },
+        {
+          "q": "Shaadi mein deri ya ghar mein kalah ho to kya Baglamukhi puja karein?",
+          "a": "Bhakt parivarik shanti aur shubh karyon ki badhaon ke liye bhi Maa ki prarthana karte hain. Kaunsi puja / havan uchit hai, ye Pandit Ji aapki baat sunkar batayenge. Ye aastha ka vishay hai."
+        },
+        {
+          "q": "Kya mujh par kisi ne tantra ya kala jadu kiya hai?",
+          "a": "Iska nishchit nirdharan WhatsApp baat se karna theek nahi hai, aur hum aisi koi baat pakke taur par nahi kehte. Agar aapko aisi chinta hai to Pandit Ji se seedhe baat kar sakte hain. Swasthya ya mansik pareshaani ho to doctor / counsellor se bhi zaroor milein."
+        }
+      ]
+    },
+    {
+      "title": "Ghar par Maa Baglamukhi ki saral puja",
+      "references": [
+        "https://hindi.webdunia.com/hindu-religion/maa-baglamukhi-ki-puja-kaise-kare-123042700040_1.html",
+        "https://www.patrika.com/dharma-karma/maa-baglamukhi-puja-vidhi-aur-shatrunashak-mantra-jaap-vidhi-8329356"
+      ],
+      "faqs": [
+        {
+          "q": "Ghar par Maa Baglamukhi ki puja kaise karein?",
+          "a": "Saral (panchopchar) puja jo aam bhakt kar sakte hain: (1) Snan karke peele vastra pehnein; (2) Uttar ya poorv disha mein chowki par peela kapda bichhakar Maa ka chitra / pratima aur Ganesh ji rakhein; (3) Gangajal se shuddhi karein; (4) Pehle Ganesh ji ka smaran karein; (5) Maa ko haldi, peela chandan, peele phool aur akshat chadhayein; (6) Ghee ka deepak aur dhoop jalayein; (7) Peela bhog (besan laddoo / kesar chawal) chadhayein; (8) Maa ka dhyan, naam-smaran ya Baglamukhi Gayatri ka path karein; (9) Aarti karein aur kshama prarthana karein. Sankalpit anushthan ya tantrik prayog ke liye Pandit Ji ka margdarshan lein."
+        },
+        {
+          "q": "Panchopchar aur shodashopchar puja kya hai?",
+          "a": "Panchopchar puja mein paanch upchar hote hain – gandh (chandan), pushp, dhoop, deep aur naivedya (bhog). Shodashopchar puja mein 16 upchar hote hain – jaise dhyan, aavahan, aasan, padya, arghya, aachaman, snan, vastra, shringar, gandh, pushp, dhoop, deep, naivedya, taambool / dakshina aur aarti-pradakshina. Saral ghar ki puja ke liye panchopchar kaafi mana jata hai."
+        },
+        {
+          "q": "Puja mein kya galtiyan nahi karni chahiye?",
+          "a": "Parampara mein ye dhyan rakhne ko kaha jata hai: bina snan ke puja na karein; puja ke dino mein lehsun-pyaaz, maans-madira se parhej karein; kisi ka bura chahne ke uddeshya se prayog na karein; bina margdarshan ke tantrik ya vishesh prayog na karein; mantra ka uchcharan shuddh rakhne ki koshish karein. Shraddha aur pavitrata sabse mahatvapurn mani jati hai."
+        }
+      ]
+    },
+    {
+      "title": "Stotra, kavach aur yantra",
+      "references": [
+        "https://www.bhaktibharat.com/mantra/maa-baglamukhi-ashtottara-shatnam-stotram",
+        "https://en.wikipedia.org/wiki/Rudrayamala"
+      ],
+      "faqs": [
+        {
+          "q": "Maa Baglamukhi ke kaunse stotra aur path hain?",
+          "a": "Prachalit path hain: Baglamukhi Ashtottara Shatanama Stotra (Maa ke 108 naam, jise Rudrayamal Tantra se mana jata hai), Baglamukhi Stotra, Baglamukhi Kavach, Baglamukhi Hridaya, Pitambara Ashtak, Baglamukhi Chalisa aur Aarti. Rudrayamal ek pramukh Sanskrit tantra granth mana jata hai. Kaunsa path aapke liye uchit hai aur uski vidhi kya hai, ye Pandit Ji bata sakte hain."
+        },
+        {
+          "q": "Baglamukhi kavach kya hai?",
+          "a": "Kavach ek raksha-stotra hota hai jismein Devi se shareer ke har ang aur jeevan ke har kshetra ki raksha ki prarthana ki jati hai. Parampara mein Baglamukhi kavach ka path raksha ke bhav se kiya jata hai. Iska vidhivat path aur niyam Pandit Ji se samajh lena uchit hai."
+        },
+        {
+          "q": "Baglamukhi yantra kya hai? Ghar mein rakh sakte hain?",
+          "a": "Yantra Devi ka jyamitik (geometric) pratik mana jata hai, jise puja sthan par rakh kar upasana ki jati hai. Parampara mein yantra ko pran-pratishtha (sthapana vidhi) ke baad puja sthan par, peele vastra par, uttar / poorv disha mein rakha jata hai aur niyamit puja ki jati hai. Yantra ki sthapana aur puja ki sahi vidhi ke liye Pandit Ji se baat karein."
+        }
+      ]
+    },
+    {
+      "title": "Nalkheda yatra – mausam aur aaspaas ke darshan",
+      "references": [
+        "https://nalkheda.in/blog/ujjain-to-nalkheda.html",
+        "https://agarmalwa.nic.in/en/tourist-place/baglukhi-mata-temple-nalkheda/"
+      ],
+      "faqs": [
+        {
+          "q": "Nalkheda jaane ka sabse achha samay kaunsa hai?",
+          "a": "Mausam ke hisab se October se March ka samay yatra ke liye sabse aaramdayak mana jata hai. April–June mein garmi bahut hoti hai (tapmaan aksar 40°C se upar), aur July–September varsha ka samay hai. Dharmik drishti se Navratri (Chaitra aur Sharadiya), Gupt Navratri aur Baglamukhi Jayanti vishesh avsar hain, par in dino bheed bahut zyada hoti hai."
+        },
+        {
+          "q": "Nalkheda ke aaspaas aur kya darshan kar sakte hain?",
+          "a": "Agar Malwa zile mein hi Baba Baijnath Mahadev ka prasiddh mandir hai. Lagbhag 100 km door Ujjain mein Mahakaleshwar Jyotirlinga (12 jyotirlingon mein se ek), Kaal Bhairav, Harsiddhi Mata, Mangalnath aur Ram Ghat jaise sthan hain, isliye bahut se yatri Ujjain aur Nalkheda ki yatra saath mein karte hain. Indore se aane wale Omkareshwar bhi jod lete hain."
+        },
+        {
+          "q": "Ek din mein Ujjain aur Nalkheda dono ho sakte hain?",
+          "a": "Haan, Ujjain se Nalkheda lagbhag 100 km (karib 2 ghante) hai, isliye kai log subah Ujjain darshan karke dopahar tak Nalkheda pahunchte hain ya ulta. Havan karwana ho to havan ka samay pehle tay kar lein taaki yatra usi hisab se plan ho sake."
+        }
+      ]
+    },
+    {
+      "title": "Yajman ke aam sawal",
+      "references": [],
+      "faqs": [
+        {
+          "q": "Kya havan karwane se meri problem pakka solve ho jayegi? Court case jeet jaunga?",
+          "a": "Havan aur puja aastha aur shraddha ka vishay hai. Parampara mein Baglamukhi upasana ko vipreet paristhitiyon mein raksha aur aatmik bal ke liye kiya jata hai, lekin kisi bhi nishchit parinaam ki guarantee nahi di ja sakti. Court case mein apne vakeel ki salah aur kanooni prakriya zaroor jaari rakhein; havan ko uske saath aastha ke roop mein dekhein."
+        },
+        {
+          "q": "Kya havan se bimari theek ho jayegi?",
+          "a": "Havan ek dharmik aur aadhyatmik kriya hai, ilaaj nahi. Bimari mein doctor ki salah aur ilaaj zaroor lein. Aastha ke roop mein aap Maa se prarthana aur havan karwa sakte hain, par ise ilaaj ki jagah na samjhein."
+        },
+        {
+          "q": "Kya mahilayein Baglamukhi havan karwa sakti hain?",
+          "a": "Haan, mahilayein bhi yajman ke roop mein Baglamukhi havan aur puja karwa sakti hain aur sankalp le sakti hain. Kisi vishesh paristhiti ke niyam ke liye Pandit Ji se baat kar sakti hain."
+        },
+        {
+          "q": "Kya parivar ke liye ya kisi aur ke naam se havan ho sakta hai?",
+          "a": "Haan. Sankalp mein parivar ke sadasyon ke naam bhi liye ja sakte hain, aur parivar ka koi sadasya doosre sadasya ke liye bhi havan karwa sakta hai. Iske liye unke naam aur gotra Pandit Ji ko bata dein."
+        },
+        {
+          "q": "Kya ek hi din mein havan aur darshan dono ho sakte hain?",
+          "a": "Haan, Nalkheda aakar aam taur par log Maa ke darshan aur havan ek hi din mein karte hain. Navratri mein bheed zyada hoti hai, isliye havan ka samay pehle se book kar lena achha rehta hai."
+        },
+        {
+          "q": "Havan ki booking kaise hoti hai?",
+          "a": "Assistant Pandit Ji ka real calendar dekh kar available date aur samay batata hai. Aap slot chunte hain, booking ki details confirm karte hain, phir booking hoti hai aur ek din pehle aapko aur Pandit Ji dono ko reminder jata hai. Dakshina aur havan ka format Pandit Ji call par batate hain."
+        },
+        {
+          "q": "Dakshina kitni hai? Havan ka kharcha kitna hai?",
+          "a": "Dakshina havan ke prakar (Samanya, Vishesh, Maha Vishesh) aur aapke sankalp par nirbhar karti hai, isliye ye sirf Pandit Ji call par batate hain. Apna number de dijiye, Pandit Ji free hote hi call back kar lenge."
+        },
+        {
+          "q": "Kya Pandit Ji ghar aakar havan kar sakte hain?",
+          "a": "Ye Pandit Ji ki uplabdhta aur sthan par nirbhar karta hai. Iske liye Pandit Ji se call par baat karna uchit rahega."
+        }
+      ]
+    }
+  ]
+}
